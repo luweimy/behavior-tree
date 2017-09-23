@@ -1,0 +1,26 @@
+------------------------------------
+- Copyright (c) 2015 MUSE STUDIO.
+------------------------------------
+
+
+##muse
+与具体游戏无关的框架以及扩展库
+
+###muse.base
+对Quick-x以及Cocos2dx的代码扩展
+
+###muse.btree
+游戏智能行为树框架
+
+###muse.core
+核心框架包含(mgr, mvcs, shader)
++ muse.core.mgr    三种管理器(ctrlor, event, registry)
++ muse.core.mvcs   MVC框架
++ muse.core.shader 对Cocos2dx节点的shader支持，以及shader特效提供
+
+###muse.ds         基本数据结构(集合，队列，栈)
+###muse.network    网络
+###muse.test       测试
+###muse.ui         ui组件
+
+###muse.other      其他各种工具
