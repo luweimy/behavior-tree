@@ -1,10 +1,10 @@
 ------------------------------------
-- Copyright (c) 2015 MUSE STUDIO.
+- Copyright (c) 2015 Luweimy.
 ------------------------------------
 
 
 ### base
 对Quick-x以及Cocos2dx的代码扩展
 
-### btree
+### bt2
 行为树基础库
